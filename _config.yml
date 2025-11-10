@@ -7,16 +7,16 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Jinyuan_Li / Romanrose"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "厦门大学电影学院研一，研究方向：多模态情感计算、多模态细粒度情感分类"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://romanrose.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Romanrose/Romanrose.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,17 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  title              : "Romanrose's Academic Homepage"  # 网站标题
+  title            : "Romanrose's Academic Homepage"  # 网站标题
   name             : "Romanrose"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Xiamen China"
   employer         : "Xiamen University"
   url              : "https://romanrose.github.io"  # 替换为你的 GitHub Pages 地址
-  email            : "wanye997@163.com" 
-  description        : "Romanrose's academic portfolio"
-  baseurl            : "/blog"
-  repository         : "romanrose/romanrose.github.io"  # 替换为你的 GitHub 仓库
+  email            : "ljyuan@stu.xmu.edu.cn" 
+  description      : "Romanrose's academic portfolio"
+  baseurl          : "/blog"
+  repository       : "romanrose/romanrose.github.io"  # 替换为你的 GitHub 仓库
+  uri              : "https://romanrosee.online"
 
   # Academic websites
   academia         : # URL
@@ -52,7 +53,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Romanrose"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
