@@ -24,13 +24,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  title              : "Romanrose's Academic Homepage"  # 网站标题
+  name             : "Romanrose"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Xiamen China"
+  employer         : "Xiamen University"
+  url              : "https://romanrose.github.io"  # 替换为你的 GitHub Pages 地址
+  email            : "wanye997@163.com" 
+  description        : "Romanrose's academic portfolio"
+  baseurl            : "/blog"
+  repository         : "romanrose/romanrose.github.io"  # 替换为你的 GitHub 仓库
 
   # Academic websites
   academia         : # URL
